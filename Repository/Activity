@@ -1,11 +1,10 @@
   
+User Requirements for Job Scheduler
   
-  User Requirements for Job Scheduler
-  
-	The Job Scheduler has an Admin that can manipulate the Users or the Job Leader. 
-	User can create a job and manipulate it.
-	The Admin can view the status of the Job. 
-	The Admin can print the active and the inactive jobs.
+ The Job Scheduler has an Admin that can manipulate the Users or the Job Leader. 
+ User can create a job and manipulate it.
+ The Admin can view the status of the Job. 
+ The Admin can print the active and the inactive jobs.
 
 System requirements for Job Scheduler
  The system must be able to schedule jobs
